@@ -1,3 +1,3 @@
-# Shopping List App Challenge
+# Shopping List App - MVP
 
-This repo contains starter files for the *Shopping List App* challenge in Thinkful's Front End Web Development course.
+This repo contains an MVP shopping list app that was just for practicing JQuery.
